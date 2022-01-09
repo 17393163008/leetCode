@@ -11,14 +11,18 @@
         <module name="20211214" />
         <module name="20211216" />
         <module name="20211218" />
+        <module name="20220108" />
+        <module name="20220109" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="20211021" target="8" />
-      <module name="20211203" target="8" />
-      <module name="20211214" target="8" />
-      <module name="20211216" target="8" />
-      <module name="20211218" target="8" />
+      <module name="20211021" target="1.5" />
+      <module name="20211203" target="1.5" />
+      <module name="20211214" target="1.5" />
+      <module name="20211216" target="1.5" />
+      <module name="20211218" target="1.5" />
+      <module name="20220108" target="1.5" />
+      <module name="20220109" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
